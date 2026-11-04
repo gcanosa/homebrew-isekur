@@ -2,7 +2,7 @@ class Isekur < Formula
   desc "IRC client with a terminal UI, webchat and E2E encryption"
   homepage "https://github.com/gcanosa/iSekur"
   url "https://github.com/gcanosa/iSekur/archive/refs/tags/v0.5.1.tar.gz"
-  sha256 "48f8c0aaf34db4f9a2a6fbd1321b5a1ae3ac8f5e0c6a32e188eb92922ddae97b"
+  sha256 "c8aaf003c42ac5ea9fab1aa29da0d901a62555cc7b47141f08578caee345fecc"
   license "GPL-3.0-only"
 
   depends_on "pkgconf" => :build
